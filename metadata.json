@@ -1,0 +1,6 @@
+{
+  "name": "Vibe a Bordo - Cruzeiros Temáticos & Temporada 2026/2027",
+  "description": "Agência especializada em cruzeiros temáticos e viagens em alto-mar. Shows inesquecíveis, consultoria pré e pós-embarque e atendimento direto no WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
